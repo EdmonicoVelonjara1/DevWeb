@@ -1,0 +1,1 @@
+(()=>{var e=document.getElementById("burgermenu"),t=document.querySelector(".header-blog__navbar");e.addEventListener("click",(function(e){e.preventDefault(),t.classList.toggle("shown")}))})();

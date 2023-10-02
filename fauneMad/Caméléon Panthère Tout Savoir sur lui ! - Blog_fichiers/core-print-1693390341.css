@@ -1,0 +1,5 @@
+@media print{.visible-print{display:block!important}table.visible-print{display:table!important}tr.visible-print{display:table-row!important}td.visible-print,th.visible-print{display:table-cell!important}}
+@media print{.visible-print-block{display:block!important}}
+@media print{.visible-print-inline{display:inline!important}}
+@media print{.visible-print-inline-block{display:inline-block!important}}
+@media print{.hidden-print{display:none!important}}
